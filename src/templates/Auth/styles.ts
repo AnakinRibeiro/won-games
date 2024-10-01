@@ -54,7 +54,7 @@ export const BannerContent = styled.div`
 
 export const Subtitle = styled.h3`
   ${({ theme }) => css`
-    font-size: ${theme.font.sizes.xlarge};
+    font-size: ${theme.font.sizes.xxlarge};
     font-weight: ${theme.font.light};
     margin-top: ${theme.spacings.xxsmall};
 
